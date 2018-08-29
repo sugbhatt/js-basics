@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Problem Instructions
 
 1.  You are given five problems in this assignment to solve which shall be available in `./solutions` directory  
@@ -20,3 +21,6 @@
 6.  Evaluation will take around 2 mins to complete after which you need to refresh your browser and get the updated status  
 7.  Watch out for your total score and detailed status on each test and eslint errors in the coloured blocks on the screen  
 8.  Fix failing test cases as well as eslint errors and re-submit your solution until you get 100%  
+=======
+# js-basics
+>>>>>>> 83aded392f8edff01123a6072cb8627ab8457b7e
